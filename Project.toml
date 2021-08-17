@@ -1,6 +1,6 @@
 name = "Yosys_jll"
 uuid = "2eded7df-79ee-58af-89be-7676cda93c14"
-version = "0.9.0+0"
+version = "0.9.0+1"
 
 [deps]
 Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"
@@ -16,6 +16,5 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-Zlib_jll = "1.2.12"
 Libffi_jll = "~3.2.2"
 boost_jll = "=1.76.0"
