@@ -1,100 +1,100 @@
 [[Yosys]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "edb07f85200948b864a34f3e06d58e32d2d37c8d"
+git-tree-sha1 = "7c475dba84c9881225a4ef2ec7418f065e049483"
 libc = "glibc"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "b20d4383cb357b5d010ff4e6d0c0b66094773dc3a37d9961cba5333e204663db"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a085e02574444bea435c3d6b181451d9ca86918a70f6df1ac0f0d1af802a7910"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[Yosys]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9ed08b4eacc2b9426feb8c6184ad597b50e8fc8"
+git-tree-sha1 = "9e116351cffce6bfefd06ee989ddab85bc1b6357"
 libc = "musl"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "447ebbe0f16399f190f9c09a84f9efb6ef75fb19867d9f0e8c6d902af910e6d3"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "8423b63ff8982788056ec9881c77f374dd2b0d07c89f21ac196ab5b4ea2a2b00"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.aarch64-linux-musl-cxx11.tar.gz"
 [[Yosys]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9b67657596650822e9bfac09c69ed9577d76f403"
+git-tree-sha1 = "7cefa0151a362eee78e98e8d0c3b2ab5fc16776f"
 libc = "glibc"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "bf7485ffa01d076960323d4237420e0a70e4577da6e4578d073812d6dd782d04"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "7295ffd362d12f0c888ca7ebf9ed839507d646df55501877e2459ebff21a3cdb"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Yosys]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c659fcea5f5277fd19b1374ff17188295dc10dc2"
+git-tree-sha1 = "1992ccb1dbb4b3a43dc69027c4f9b40b319855e2"
 libc = "musl"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "2084c203ce5b0b1c8af2e739eaf81bc2402454b48692f86c1a949d4b428ab115"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4d2730ca9b0afcbba24480bb164be28638abde2441112b5881c2436b33af62df"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Yosys]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba847dda23c08abc2ccab187afe74940c4489aee"
+git-tree-sha1 = "83b941653f8cf332e7cf8d5319875a263ce2f23d"
 libc = "glibc"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "2aaedacb85326c74d5e3d35d5e3eb51651bf7c7d9222ca263dcd273a36088735"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "602fc37d174727c40b4955271aa8885d3f2904d54343e14d02e14332b7bb5b95"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.i686-linux-gnu-cxx11.tar.gz"
 [[Yosys]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3de339d11fae7b175d4ac975c3add9ef78751130"
+git-tree-sha1 = "84ed5788d7cdb1ee46663e8dfe78d36c6b51d750"
 libc = "musl"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "108f3f0dc0b722bf8d96b7c068ac7361aad17a04180f9524b03e95e8f97eb5d6"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "d38265c35a11ef60acf916bf6bf909cd78b121320f397f74408cd3b477933fa6"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.i686-linux-musl-cxx11.tar.gz"
 [[Yosys]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a2059791b72e20fb3e52c0609eb04d15125a75cd"
+git-tree-sha1 = "03d45cd8110d54e7a8490db6b8e2e6c0382fe0f3"
 libc = "glibc"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "535aff2f3d27c2a5e626b68c4920b1479dab8849a3db6ec1a2a652546a8b7c74"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "bfd0a1086f7f885eb0be0a811fff48665fc9c9b9a060884f6557f1c5595b763b"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Yosys]]
 arch = "x86_64"
-git-tree-sha1 = "8d56348de1444742a2cfd8f728dcd4d94b3c5346"
+git-tree-sha1 = "292c6d697faaf5739a2befff41a7994db5f8bd36"
 os = "macos"
 
     [[Yosys.download]]
-    sha256 = "7f56f76930d587ffc42369b977cf974d5705545c9bcec81e096c5e88c4181a55"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "9f8eee168e39b3ea0a57d4115666e8e5064ef126d244ef17789632400663c448"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.x86_64-apple-darwin.tar.gz"
 [[Yosys]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee90fc26a2b805001db9b7ed7aaf9604339e0eb6"
+git-tree-sha1 = "edc30e919f8d28b3a115f126d7be17424b19c50d"
 libc = "glibc"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "89a070922c24b571e72e112419d851f9c98c622d2377c5077859225580d03171"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c0427eaa9a6516ecb7ca1a1b4ebb53c883c080dc9c640ba5f5af2331f8ef9931"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[Yosys]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7da5b2e04a4f261456332c46dd39c6d0ad77ca83"
+git-tree-sha1 = "dd3d720a9f6273f86a222682a0a75af594ec238d"
 libc = "musl"
 os = "linux"
 
     [[Yosys.download]]
-    sha256 = "3ebb563300aca935ffbb89c87c6b7bc5278b7a1b02b0b6a5f49d16e802f8de6a"
-    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+0/Yosys.v0.9.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a398732dff61326a94de7f246bf01857630df16ec7c877d52e6c5efc42d13e07"
+    url = "https://github.com/JuliaBinaryWrappers/Yosys_jll.jl/releases/download/Yosys-v0.9.0+2/Yosys.v0.9.0.x86_64-linux-musl-cxx11.tar.gz"
