@@ -5,7 +5,6 @@ using boost_jll
 using Readline_jll
 using Tcl_jll
 using Zlib_jll
-using ABC_jll
 using Libffi_jll
 JLLWrappers.@generate_wrapper_header("Yosys")
 JLLWrappers.@declare_library_product(libyosys, "/workspace/destdir/lib/libyosys.so")
@@ -15,7 +14,7 @@ JLLWrappers.@declare_executable_product(yosys_config)
 JLLWrappers.@declare_executable_product(yosys_filterlib)
 JLLWrappers.@declare_executable_product(yosys_smtbmc)
 function __init__()
-    JLLWrappers.@generate_init_header(boost_jll, Readline_jll, Tcl_jll, Zlib_jll, ABC_jll, Libffi_jll)
+    JLLWrappers.@generate_init_header(boost_jll, Readline_jll, Tcl_jll, Zlib_jll, Libffi_jll)
     JLLWrappers.@init_library_product(
         libyosys,
         "lib/libyosys.so",
